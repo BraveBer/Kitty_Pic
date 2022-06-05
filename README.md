@@ -1,2 +1,2 @@
 # Kitty_Pic
-One page website using HTML, CSS(SCSS), and Javascript
+single page website using HTML, CSS(SCSS), and Javascript
